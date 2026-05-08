@@ -9,7 +9,6 @@ SmartSan+ tracks stall occupancy, air quality, water levels, restocking needs, a
 
 ![SmartSan+ Wiring Diagram](Circuit_diagram.jpeg)
 
-> **Make sure `Circuit_diagram.jpeg` is in the same folder as this `README.md` in your repository.**
 
 ---
 
