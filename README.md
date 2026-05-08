@@ -1,1 +1,1 @@
-hello 
+<title>Smart Washroom</title>
