@@ -8,7 +8,7 @@
 [![Language: MicroPython](https://img.shields.io/badge/Language-MicroPython-yellow?style=for-the-badge&logo=python)](https://micropython.org/)
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/smart-home.png" width="100">
+  <img src="https://img.icons8.com/fluency/96/000000/smart-home.png" width="100" alt="Smart Home">
 </p>
 
 [Technical Architecture](#-technical-architecture) • [Bill of Materials](#-bill-of-materials) • [Installation](#-installation)
